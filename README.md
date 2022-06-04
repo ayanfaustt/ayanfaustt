@@ -1,6 +1,6 @@
-### Hi there 👋, Meu nome é Ayan
+### Olá 👋, Meu nome é Ayan
 #### Desenvolvedor FullStack na Seed a Bit Tecnologia
-![Desenvolvedor FullStack na Seed a Bit Tecnologia](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Desenvolvedor FullStack na Seed a Bit Tecnologia]
 
 Descobrir novas tecnologias e compreender as possibilidades delas é algo que me cativa a sempre estudar mais e mais.
 
