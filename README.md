@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Meu nome é Ayan
+#### Desenvolvedor FullStack na Seed a Bit Tecnologia
+![Desenvolvedor FullStack na Seed a Bit Tecnologia](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Descobrir novas tecnologias e compreender as possibilidades delas é algo que me cativa a sempre estudar mais e mais.
+
+Skills: NODE JS / REACT / JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **ayanfaustt/ayanfaustt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
